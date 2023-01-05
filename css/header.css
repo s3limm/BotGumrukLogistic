@@ -1,0 +1,35 @@
+.nav-links li a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+header {
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px 170px;
+}
+
+.logo {
+    width: 140px;
+    height: 65px;
+    cursor: pointer;
+    margin-right: 815px;
+}
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0px 23px;
+}
+
+.nav-links li a{
+    transition: all 0.3s ease 0s;
+}
