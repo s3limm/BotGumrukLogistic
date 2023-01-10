@@ -10,7 +10,7 @@ header {
     background-color: black;
     display: flex;
     justify-content: flex-end;
-    align-items: center;
+    align-items: flex-end;
     padding: 20px 170px;
 }
 
@@ -18,7 +18,7 @@ header {
     width: 140px;
     height: 65px;
     cursor: pointer;
-    margin-right: 815px;
+    margin-right: 735px;
 }
 
 .nav-links {
